@@ -39,7 +39,7 @@ public class Binariador
         int cociente = numeroDecimal();
         int contador = 0;
         while (cociente != 0){
-            numeroBinario.add(numeroBinario.size()-contador, cociente%2);
+            numeroBinario.add(0, cociente%2);
             cociente = cociente/2;
             contador++;
         }

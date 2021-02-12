@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Binariador
+comment0.text=\r\n\ Recibe\ un\ numero\ decimal/base10\ y\ lo\ convierte\ a\ binario/base2\r\n\ \r\n\ @author\ (Roberto\ Alarcon\ Bardon)\ \r\n\ @version\ 0.1\ (11/02/2021)\r\n
+comment1.params=
+comment1.target=Binariador()
+comment1.text=\r\n\ Crea\ un\ objeto\ que\ convierte\ un\ numero\ en\ base\ decimal\ introducido\ a\ \r\n\ un\ numero\ binario\r\n
+comment2.params=
+comment2.target=int\ numeroDecimal()
+comment2.text=\r\n\ Coge\ el\ numero\ que\ ha\ introducido\ el\ usuario\ para\ pasarlo\ a\ binario\r\n
+comment3.params=
+comment3.target=void\ convertidorABinario()
+comment3.text=\r\n\ Convierte\ el\ numero\ en\ base\ decimal\ introducido\ por\ el\ usuario\ a\r\n\ un\ numero\ binario\r\n
+comment4.params=
+comment4.target=void\ calcular()
+comment4.text=\r\n\ Inicia\ el\ programa\ y\ devuelve\ por\ pantalla\ el\ Array\ del\ numero\ en\ binario.\r\n
+comment5.params=
+comment5.target=void\ saludo()
+comment5.text=\r\n\ Imprime\ por\ pantalla\ un\ saludo\ y\ una\ pregunta\ al\ usuario\ del\ programa\r\n
+comment6.params=
+comment6.target=void\ resultado()
+comment6.text=\r\n\ Imprime\ el\ resultado\ del\ numero\ binario\ y\ limpia\ el\ array\ para\ poder\ hacer\ mas\ calculos\r\n
+numComments=7
